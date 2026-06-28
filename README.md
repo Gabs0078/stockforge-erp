@@ -1,6 +1,6 @@
-# StockForge ERP
+# StockForge ERP - Sistema de Gestão de Estoque
 
-MVP de gestão de estoque desenvolvido para projeto acadêmico. A aplicação usa React no front-end, Node.js no back-end, MariaDB/MySQL como banco de dados e Docker com Nginx como proxy reverso.
+MVP de um sistema ERP para gestão de estoque desenvolvido como projeto acadêmico, utilizando React, Node.js, Express, MariaDB, Docker e Nginx.
 
 ## Objetivo
 
