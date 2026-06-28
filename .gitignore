@@ -1,0 +1,27 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Arquivos do sistema
+.DS_Store
+
+# Build
+dist/
+build/
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Certificados locais
+certs/*.pem
+!certs/.gitkeep
+
+# Docker
+mysql_data/

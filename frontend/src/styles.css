@@ -1,0 +1,5 @@
+body { background: #f6f8fa; }
+.card-kpi { min-height: 118px; }
+.table td, .table th { vertical-align: middle; }
+.low-stock { font-weight: 700; }
+.form-label { font-weight: 600; }
